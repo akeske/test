@@ -1,0 +1,11 @@
+{
+  "name": "uop",
+  "version": "1.0.0",
+  "description": "simple node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanos",
+  "license": "ISC"
+}
