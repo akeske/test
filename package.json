@@ -4,8 +4,16 @@
   "description": "simple node app",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Thanos",
-  "license": "ISC"
+  "keywords": [
+    "demo",
+    "nodejs"
+  ],
+  "author": "Thanos Keskempes",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
 }
